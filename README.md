@@ -1,2 +1,9 @@
-# WP-Simple-Admin-Notices
-This plugin implements a Class to trigger notices into panel more easily.
+# WP SAN - WordPress Simple Admin Notices
+>This plugin implements a Class to trigger notices into Wordpress Admin more easily using a shortcode.
+
+
+## How to use:
+You have to create an style in your css file with the custom class of message, it's all!
+```php
+  do_shortcode('[san_notice message="Oops, a error have ocurred." class="error"]');
+```
