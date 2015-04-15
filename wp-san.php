@@ -13,7 +13,7 @@
 /**
  * How to use:
  * do_shortcode('[san_notice message="Oops, a error have ocurred." class="error"]');
- * You have to create an style in your css file with the custom class of message, it's all!
+ * You have to create an style in your css file with the custom class of message or the class you be .update-nag of wordpress, it's all!
  */
 
 class WP_SAN {
