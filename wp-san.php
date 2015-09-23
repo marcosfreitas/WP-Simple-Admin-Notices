@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WordPress Simple Admin Notice (WP SAN)
  * Description: This plugin implements a Class to trigger notices into Wordpress Admin more easily using a shortcode.
- * Plugin URI: http://c4network.com.br
+ * Plugin URI: https://github.com/marcosfreitas/WP-Simple-Admin-Notices
  * Author: Marcos Freitas
  * Author URI: http://fb.me/marcoosfreitas
  * Version: 0.2
