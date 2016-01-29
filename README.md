@@ -8,4 +8,4 @@ You have to create an style in your css file with the custom class of message or
   do_shortcode('[san_notice message="Oops, a error have ocurred." class="error"]');
 ```
 
-![alt](https://rs1img.memecdn.com/lee-norris_o_202721.gif)
+![alt](http://img.memecdn.com/lee-norris_o_202721.gif)
